@@ -5,12 +5,21 @@
 This repo contains the medicine dispenser project report.
 
 
-<object data="https://github.com/juiomshanti/medicine_dispencer/blob/master/ISCA_Poster_Award_V1.0.pdf" type="application/pdf" width="700px" height="700px">
 
-    <embed src="https://github.com/juiomshanti/medicine_dispencer/blob/master/ISCA_Poster_Award_V1.0.pdf">
+![discussion notes 1](media/lib1.jpg)
 
-        <p>This browser does not support PDFs. Please download the PDF to view it:<a href="https://github.com/juiomshanti/medicine_dispencer/blob/master/ISCA_Poster_Award_V1.0.pdf">Download PDF</a>.</p>
 
-    </embed>
 
-</object>
+![discussion notes 2](media/lib2.jpg)
+
+
+
+![discussion notes 3](media/lib3.jpg)
+
+
+
+![discussion notes 4](media/lib4.jpg)
+
+
+
+![discussion notes 5](media/lib5.jpg)
